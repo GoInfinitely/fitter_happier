@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation, swap axis (#8249)
+Add horizontal Mosaic3 augmentation (#6898)
